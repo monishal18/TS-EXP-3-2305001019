@@ -20,6 +20,11 @@ To apply logarithmic transformation to the International Airline Passenger time 
 5. Plot the transformed series.
 6. Compare the original and transformed data.
 
+## Observation
+Before log transformation, the passenger series shows an increasing trend and larger fluctuations as passenger numbers increase.
+
+After log transformation, larger values are compressed more strongly than smaller values. This can reduce changing variability and make the series easier to model.
+
 ##  Program
 ```
 import pandas as pd
@@ -102,10 +107,6 @@ print("Log-Transformed Variance:", df["Log_Passengers"].var())
  <img width="822" height="611" alt="image" src="https://github.com/user-attachments/assets/c82ca888-7a36-4575-a07d-54584e0f1420" />
 
 
-## Observation
-Before log transformation, the passenger series shows an increasing trend and larger fluctuations as passenger numbers increase.
-
-After log transformation, larger values are compressed more strongly than smaller values. This can reduce changing variability and make the series easier to model.
 
 ##  Result
 Thus, logarithmic transformation was applied successfully to the International Airline Passenger time series, and the original and transformed data were visualized and compared.
