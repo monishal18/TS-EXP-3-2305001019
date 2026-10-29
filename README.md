@@ -87,19 +87,19 @@ print("Log-Transformed Variance:", df["Log_Passengers"].var())
 ##  Expected Output
 - Original airline passenger time-series graph.
 
-- <img width="841" height="395" alt="image" src="https://github.com/user-attachments/assets/47ef5fe9-c326-4210-a373-5ebaff8a419a" />
+<img width="841" height="395" alt="image" src="https://github.com/user-attachments/assets/47ef5fe9-c326-4210-a373-5ebaff8a419a" />
 
 - Log-transformed airline passenger graph.
 
-- <img width="812" height="362" alt="image" src="https://github.com/user-attachments/assets/d805032b-f6bf-461c-8e1f-27ed10d9c9db" />
+ <img width="812" height="362" alt="image" src="https://github.com/user-attachments/assets/d805032b-f6bf-461c-8e1f-27ed10d9c9db" />
 
 - Comparison plots of original and transformed data.
 
-- <img width="822" height="542" alt="image" src="https://github.com/user-attachments/assets/d9a71555-ce78-48ed-8763-ee798e006fcf" />
+  <img width="822" height="542" alt="image" src="https://github.com/user-attachments/assets/d9a71555-ce78-48ed-8763-ee798e006fcf" />
 
 - Original and log-transformed variance values.
 
-- <img width="822" height="611" alt="image" src="https://github.com/user-attachments/assets/c82ca888-7a36-4575-a07d-54584e0f1420" />
+ <img width="822" height="611" alt="image" src="https://github.com/user-attachments/assets/c82ca888-7a36-4575-a07d-54584e0f1420" />
 
 
 ## Observation
